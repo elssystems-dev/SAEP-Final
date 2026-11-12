@@ -1,0 +1,13 @@
+{
+    "name": "vetvida/gestao-clinica",
+    "description": "Sistema Integrado de Gestao de Clinica Veterinaria SAEP",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "VetVida\\": "src/"
+        }
+    }
+}
